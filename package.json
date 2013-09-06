@@ -1,0 +1,23 @@
+{
+  "name": "hubot-dinosaur-comics",
+  "version": "0.0.1",
+  "description": "A Hubot script for retrieving Dinosaur Comics (www.qwantz.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gkoo/hubot-dinosaur-comics.git"
+  },
+  "keywords": [
+    "hubot",
+    "dinosaur",
+    "comics"
+  ],
+  "author": "Gordon Koo <gordon@gordonkoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkoo/hubot-dinosaur-comics/issues"
+  },
+  "dependencies": {
+    "htmlparser": "1.7.6",
+    "soupselect": "0.2.0"
+  }
+}
