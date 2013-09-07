@@ -1,6 +1,6 @@
 {
   "name": "hubot-dinosaur-comics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Hubot script for retrieving Dinosaur Comics (www.qwantz.com)",
   "repository": {
     "type": "git",
