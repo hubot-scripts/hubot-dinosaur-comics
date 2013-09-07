@@ -17,7 +17,14 @@
     "url": "https://github.com/gkoo/hubot-dinosaur-comics/issues"
   },
   "dependencies": {
+    "coffee-script": "~1.6",
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
   }
 }
