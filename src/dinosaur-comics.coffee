@@ -9,8 +9,8 @@
 #   None
 #
 # Commands:
-#   hubot dinosaur comic - The latest dinosaur comic
-#   hubot dino comic random - A random dinosaur comic
+#   hubot dinosaur comics - The latest dinosaur comic
+#   hubot dinosaur comics random - A random dinosaur comic
 #
 # Author:
 #   gkoo
