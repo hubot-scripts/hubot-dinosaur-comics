@@ -26,5 +26,8 @@
     "chai": "*",
     "sinon-chai": "*",
     "sinon": "*"
+  },
+  "scripts": {
+    "test": "script/test"
   }
 }
